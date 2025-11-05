@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="TemplatesSettings">
+    <option name="templateConfigs">
+      <TemplateContext>
+        <option name="generateConfig">
+          <GenerateConfig>
+            <option name="annotationType" value="MYBATIS_PLUS3" />
+            <option name="basePackage" value="com.bjpowernode.model" />
+            <option name="basePath" value="src/main/java" />
+            <option name="classNameStrategy" value="camel" />
+            <option name="encoding" value="UTF-8" />
+            <option name="extraClassSuffix" value="" />
+            <option name="ignoreFieldPrefix" value="" />
+            <option name="ignoreFieldSuffix" value="" />
+            <option name="ignoreTablePrefix" value="" />
+            <option name="ignoreTableSuffix" value="" />
+            <option name="moduleName" value="dlyk-server" />
+            <option name="modulePath" value="$PROJECT_DIR$/dlyk-server" />
+            <option name="moduleUIInfoList">
+              <list>
+                <ModuleInfoGo>
+                  <option name="basePath" value="src/main/java" />
+                  <option name="configFileName" value="domain.ftl" />
+                  <option name="configName" value="domain" />
+                  <option name="encoding" value="UTF-8" />
+                  <option name="fileName" value="${domain.fileName}" />
+                  <option name="fileNameWithSuffix" value="${domain.fileName}.java" />
+                  <option name="modulePath" value="$PROJECT_DIR$/dlyk-server" />
+                  <option name="packageName" value="com.bjpowernode.model.domain" />
+                </ModuleInfoGo>
+              </list>
+            </option>
+            <option name="needToStringHashcodeEquals" value="true" />
+            <option name="needsComment" value="true" />
+            <option name="needsModel" value="true" />
+            <option name="relativePackage" value="domain" />
+            <option name="superClass" value="" />
+            <option name="tableUIInfoList">
+              <list>
+                <TableUIInfo>
+                  <option name="className" value="TActivity" />
+                  <option name="tableName" value="t_activity" />
+                </TableUIInfo>
+                <TableUIInfo>
+                  <option name="className" value="TActivityRemark" />
+                  <option name="tableName" value="t_activity_remark" />
+                </TableUIInfo>
+                <TableUIInfo>
+                  <option name="className" value="TClue" />
+                  <option name="tableName" value="t_clue" />
+                </TableUIInfo>
+                <TableUIInfo>
+                  <option name="className" value="TClueRemark" />
+                  <option name="tableName" value="t_clue_remark" />
+                </TableUIInfo>
+                <TableUIInfo>
+                  <option name="className" value="TCustomer" />
+                  <option name="tableName" value="t_customer" />
+                </TableUIInfo>
+                <TableUIInfo>
+                  <option name="className" value="TCustomerRemark" />
+                  <option name="tableName" value="t_customer_remark" />
+                </TableUIInfo>
+                <TableUIInfo>
+                  <option name="className" value="TDicType" />
+                  <option name="tableName" value="t_dic_type" />
+                </TableUIInfo>
+                <TableUIInfo>
+                  <option name="className" value="TDicValue" />
+                  <option name="tableName" value="t_dic_value" />
+                </TableUIInfo>
+                <TableUIInfo>
+                  <option name="className" value="TPermission" />
+                  <option name="tableName" value="t_permission" />
+                </TableUIInfo>
+                <TableUIInfo>
+                  <option name="className" value="TProduct" />
+                  <option name="tableName" value="t_product" />
+                </TableUIInfo>
+                <TableUIInfo>
+                  <option name="className" value="TRole" />
+                  <option name="tableName" value="t_role" />
+                </TableUIInfo>
+                <TableUIInfo>
+                  <option name="className" value="TRolePermission" />
+                  <option name="tableName" value="t_role_permission" />
+                </TableUIInfo>
+                <TableUIInfo>
+                  <option name="className" value="TSystemInfo" />
+                  <option name="tableName" value="t_system_info" />
+                </TableUIInfo>
+                <TableUIInfo>
+                  <option name="className" value="TTran" />
+                  <option name="tableName" value="t_tran" />
+                </TableUIInfo>
+                <TableUIInfo>
+                  <option name="className" value="TTranHistory" />
+                  <option name="tableName" value="t_tran_history" />
+                </TableUIInfo>
+                <TableUIInfo>
+                  <option name="className" value="TTranRemark" />
+                  <option name="tableName" value="t_tran_remark" />
+                </TableUIInfo>
+                <TableUIInfo>
+                  <option name="className" value="TUser" />
+                  <option name="tableName" value="t_user" />
+                </TableUIInfo>
+                <TableUIInfo>
+                  <option name="className" value="TUserRole" />
+                  <option name="tableName" value="t_user_role" />
+                </TableUIInfo>
+              </list>
+            </option>
+            <option name="templatesName" value="custom-model-swagger" />
+          </GenerateConfig>
+        </option>
+        <option name="moduleName" value="dlyk-server" />
+        <option name="projectPath" value="$PROJECT_DIR$" />
+        <option name="templateName" value="custom-model-swagger" />
+      </TemplateContext>
+    </option>
+  </component>
+</project>
